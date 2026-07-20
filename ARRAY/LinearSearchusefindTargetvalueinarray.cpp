@@ -1,16 +1,16 @@
 #include<iostream>
 using namespace std;
 
-// in LinerSearch fing Target value in array ?\
+// in LinerSearch fing Target value in array ?find index value ?
 
 int LinearSearch (int arr[],int size ,int target){
         for(int i=0 ; i<size ; i++){
             if(arr[i] == target){
-                 return i; 
+                 return i; // when i return index valu.
             }
         
         }
-        return -1;
+        return -1;//No index 
 }
 
 
