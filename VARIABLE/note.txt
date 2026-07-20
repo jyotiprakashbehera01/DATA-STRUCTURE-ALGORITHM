@@ -1,0 +1,68 @@
+
+VARIABLE
+
+1.A variable is a label to container in memory ,
+it ussed to store data that your program can you change.
+2.variable name must start with a later(A to Z AND a to z)or an under score.
+3.After the first latter , name an contain letter , digit (0-9),or underscore_.
+4.no space or special charector(like @,#,$,%...etc) .
+5.variable name contain c++ in keyword(e.g = int, void , return) .
+6.variable names are case-sencitive.
+
+
+DATA TYPE
+
+1.data type has two type like primitiv or nonprimitiv
+
+A.primitive data type & size:
+int------4byt
+flote----4byt
+double---8byt
+char-----1byt
+bool-----1byt
+
+CASTING :
+Converting the Data one type to another type.
+
+OPERATER :
+
+1.Arethematic OPERATER :
++
+-
+*-asterik
+/
+%
+
+2.Relational operator:
+
+ it give trure or false
+<
+>
+<=
+>=
+==
+!= not equalto
+
+3.LOGICAL operator
+or  --||
+and --&&
+not --!
+
+4.BINARY OPERATER
+
+
+
+
+5.UNARY OPERATER:
+
+++incriment
+a++
+++a
+
+--decriment
+a--
+--a
+
+
+
+

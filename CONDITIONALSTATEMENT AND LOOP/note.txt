@@ -1,0 +1,45 @@
+CONDITIONAL STATEMENT :
+
+A conditional statement is used to make decisions in a program.
+ It executes different blocks of code based on whether a condition is true or false(0,1).
+
+
+
+ LOOPs:
+
+ 1.A loop is a programming concept that repeats a block of code multiple times until a condition becomes false.
+ 2.it has 3 type.
+   1.while:
+   while(intial condition){
+           condition;
+           updation;
+   }
+
+
+  2. for:
+
+   for(initialcondition;condition;updation){
+    
+    //work;
+    use break;//key word'
+    use 
+   }
+
+
+
+   3.do while:
+  do {
+    work;
+_____________
+______________
+_________________
+
+  } while(condition);
+
+
+
+
+   allways avoid infanite loop.
+
+NESTED LOOPs:
+->loop inside a loop is called inside loop.

@@ -1,0 +1,18 @@
+BINARY NUMBER SYSTEM:
+->It has system based number system .
+->it has content only 0-1.
+->it has base 2 number system.
+
+
+
+
+
+
+DECIMAL NUMBER SYSTEM:
+->It has mathematical mumber system.
+->it has content 0-9 all number.
+->it has also called base 10 number system.
+
+
+
+HOW TO CONVERT DECIMAL TO BINARY:

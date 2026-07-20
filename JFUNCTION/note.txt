@@ -1,0 +1,9 @@
+FUNCTION: 
+
+Function is a block of code that perform a specific task and it exicuted when it call.
+
+syntax:
+
+reurntype Function name {
+    //do some work
+}
