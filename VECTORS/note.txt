@@ -43,3 +43,21 @@ VECTOR FUNCTION:
 -->it out put on last charecter.
 5.vec.at[]
 -->cout << vec.at(i) << endl;
+
+
+STATIC ALLOCATION:
+
+-->Static alllocatin is the compile time allocation.
+-->It has store on stack memorry.
+-->ex.int arr[5];
+   it crear 5 array space in compile time.
+
+DYNAMIC ALLOCATION:
+
+-->Dynamic allocation is runtime allocation.
+-->It has store data in heap memory.
+
+
+-->Vector is an runtime-dynamic .
+
+
