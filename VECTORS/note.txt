@@ -1,0 +1,45 @@
+VECTOR:
+(Data Structure),It has look like array.
+-->VEctor in dynamic in natucher.
+-->It has chsnge in size.
+
+
+STL(STANDARD TEMPLET LIBRARY):
+-->it use cpp.
+-->STL has content some various container like 
+.VEctor
+.queue
+.stack
+.Set etc..
+
+Syntax:
+(vector write three type like:)
+-->vector<int>vec;
+-->vector<int>vec={1,2,3,4}
+-->vector<int>vec(3,0);
+
+*When  i use vector ,so allway import vector header file.
+-->#include<vector>
+
+-->When vector contain for each loop .
+
+
+VECTOR FUNCTION:
+(vector has contain some functioon like.)
+1.vec.size()
+-->it use count of vector size.
+-->cout << vec.size() << endl ;
+2.push_back()
+-->add some value .
+-->vec.push_back(25);
+3.pop_back()
+-->remove last update value.
+-->vec.pop_back();
+-->it has allways default value.
+4.front()
+-->cout << vec.front() << endl;
+-->it out put on first value.
+-->cout << vec.back() << endl;
+-->it out put on last charecter.
+5.vec.at[]
+-->cout << vec.at(i) << endl;
