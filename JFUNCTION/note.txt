@@ -7,3 +7,5 @@ syntax:
 reurntype Function name {
     //do some work
 }
+
+//hello
