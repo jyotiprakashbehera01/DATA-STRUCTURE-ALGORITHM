@@ -2,19 +2,26 @@
 #include <vector>
 using namespace std;
 
-int majorityElement(vector<int>& nums) {
+// Brout force approch :
+
+int majorityElement(vector<int> &nums)
+{
     int n = nums.size();
 
-    for (int val : nums) {
+    for (int val : nums)
+    {
         int freq = 0;
 
-        for (int el : nums) {
-            if (el == val) {
+        for (int el : nums)
+        {
+            if (el == val)
+            {
                 freq++;
             }
         }
 
-        if (freq > n / 2) {
+        if (freq > n / 2)
+        {
             return val;
         }
     }
@@ -22,7 +29,8 @@ int majorityElement(vector<int>& nums) {
     return -1;
 }
 
-int main() {
+int main()
+{
     vector<int> nums = {2, 2, 1, 1, 1, 2, 2};
 
     cout << "Majority Element = "
